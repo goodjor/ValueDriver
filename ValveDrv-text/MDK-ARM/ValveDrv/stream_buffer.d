@@ -1,0 +1,14 @@
+valvedrv\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+valvedrv\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+valvedrv\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+valvedrv\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+valvedrv\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+valvedrv\stream_buffer.o: ../Inc/FreeRTOSConfig.h
+valvedrv\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+valvedrv\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+valvedrv\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+valvedrv\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+valvedrv\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+valvedrv\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+valvedrv\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+valvedrv\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [CP6AutoV1.0.PrjPCB]
+   Generated File[Pick Place for ValveDrvBoardV20.txt]
+   Generated File[Pick Place for ValveDrvBoardV20.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 12:32:32 On 2022/9/8

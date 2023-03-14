@@ -1,0 +1,16 @@
+valvedrv\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+valvedrv\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+valvedrv\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+valvedrv\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+valvedrv\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+valvedrv\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+valvedrv\tasks.o: ../Inc/FreeRTOSConfig.h
+valvedrv\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+valvedrv\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+valvedrv\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+valvedrv\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+valvedrv\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+valvedrv\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+valvedrv\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+valvedrv\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+valvedrv\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

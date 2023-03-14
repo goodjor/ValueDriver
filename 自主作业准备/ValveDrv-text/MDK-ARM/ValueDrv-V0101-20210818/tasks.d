@@ -1,0 +1,16 @@
+valuedrv-v0101-20210818\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+valuedrv-v0101-20210818\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+valuedrv-v0101-20210818\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+valuedrv-v0101-20210818\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+valuedrv-v0101-20210818\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+valuedrv-v0101-20210818\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+valuedrv-v0101-20210818\tasks.o: ../Inc/FreeRTOSConfig.h
+valuedrv-v0101-20210818\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+valuedrv-v0101-20210818\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+valuedrv-v0101-20210818\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+valuedrv-v0101-20210818\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+valuedrv-v0101-20210818\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+valuedrv-v0101-20210818\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+valuedrv-v0101-20210818\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+valuedrv-v0101-20210818\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+valuedrv-v0101-20210818\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

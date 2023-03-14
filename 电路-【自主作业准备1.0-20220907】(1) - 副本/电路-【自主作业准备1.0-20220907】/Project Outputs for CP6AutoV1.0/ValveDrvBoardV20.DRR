@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ValveDrvBoardV20.PcbDoc   2022/9/8  12:10:11
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ValveDrvBoardV20.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             66        PTH        22.52inch (571.92mm)
+T2      12mil (0.305mm)                                           Round             32        PTH        14.01inch (355.75mm)
+T3      15mil (0.381mm)                                           Round             9         PTH        4.41inch (112.06mm)
+T4      16mil (0.406mm)                                           Round             9         PTH        3.46inch (87.84mm)
+T5      20mil (0.508mm)                                           Round             12        PTH        14.77inch (375.05mm)
+T6      25mil (0.635mm)                                           Round             6         PTH        5.78inch (146.88mm)
+T7      32mil (0.8mm)                                             Round             5         PTH        4.14inch (105.25mm)
+T8      35mil (0.889mm)                                           Round             8         PTH        3.84inch (97.53mm)
+T9      35mil (0.9mm)                                             Round             15        PTH        5.84inch (148.33mm)
+T10     39mil (1mm)                                               Round             110       PTH        28.98inch (736.03mm)
+T11     50mil (1.27mm)                                            Round             56        PTH        10.24inch (260.10mm)
+T12     138mil (3.502mm)                                          Round             2         PTH        4.97inch (126.11mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              330
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,215 @@
+Altium Designer Pick and Place Locations
+C:\Users\SuperHang\Documents\WeChat Files\wxid_owhfdj1f53bm22\FileStorage\File\2022-09\电路-【自主作业准备1.0-20220907】(1) - 副本\电路-【自主作业准备1.0-20220907】\Project Outputs for CP6AutoV1.0\Pick Place for ValveDrvBoardV20.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/09/22
+Time:       12:32
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment           Layer    Footprint                             Center-X(mm) Center-Y(mm) Rotation Description                 
+D28        M7                TopLayer SMA_L4.4-W2.6-LS5.0-RD                23.9522      7.9248       90       通用二极管                       
+U30        EL357N(B)(TA)-G   TopLayer LC-SOP-4_P2.54                        139.9032     26.4701      270      贴片光耦//EL357N(B)(TA)-G       
+U26        EL357N(B)(TA)-G   TopLayer LC-SOP-4_P2.54                        129.5038     26.4701      270      贴片光耦//EL357N(B)(TA)-G       
+R60        10K               TopLayer R0603-M                               141.4018     19.5834      270      贴片电阻/10K                    
+R58        10K               TopLayer R0603-M                               143.8148     29.3116      90       贴片电阻/10K                    
+R57        10K               TopLayer R0603-M                               130.8608     19.6248      270      贴片电阻/10K                    
+R56        10K               TopLayer R0603-M                               133.2230     29.3116      90       贴片电阻/10K                    
+D27        LL4148            TopLayer LC-LL-34                              135.9916     29.1084      270      二极管LL4148                   
+D26        LL4148            TopLayer LC-LL-34                              125.4506     29.0068      270      二极管LL4148                   
+C20        10nF              TopLayer C0603-M                               138.6332     19.6088      270      贴片电容/50V10nF                
+C19        10nF              TopLayer C0603-M                               128.2338     19.6248      270      贴片电容/50V10nF                
+U21        TP2272-SR         TopLayer SOIC-127P-8N                          155.7274     23.1648      0        TP2272-SR                   
+U25        EL357N(B)(TA)-G   TopLayer LC-SOP-4_P2.54                        160.3502     9.9060       270      贴片光耦//EL357N(B)(TA)-G       
+U24        EL357N(B)(TA)-G   TopLayer LC-SOP-4_P2.54                        150.1648     9.9060       270      贴片光耦//EL357N(B)(TA)-G       
+U23        EL357N(B)(TA)-G   TopLayer LC-SOP-4_P2.54                        139.9032     9.9060       270      贴片光耦//EL357N(B)(TA)-G       
+U22        EL357N(B)(TA)-G   TopLayer LC-SOP-4_P2.54                        129.5038     9.9060       270      贴片光耦//EL357N(B)(TA)-G       
+R55        10K               TopLayer R0603-M                               161.6330     3.4671       270      贴片电阻                        
+R54        10K               TopLayer R0603-M                               164.4142     11.9804      90       贴片电阻                        
+R53        10K               TopLayer R0603-M                               151.5618     3.4290       270      贴片电阻                        
+R52        10K               TopLayer R0603-M                               153.9748     11.9804      90       贴片电阻                        
+R51        10K               TopLayer R0603-M                               141.1732     3.4654       270      贴片电阻                        
+R50        10K               TopLayer R0603-M                               143.5862     11.9804      90       贴片电阻                        
+R49        10K               TopLayer R0603-M                               130.8608     3.4654       270      贴片电阻                        
+R48        10K               TopLayer R0603-M                               133.2230     11.9804      90       贴片电阻                        
+R47        "120Ω 0.1%"       TopLayer R0603-M                               148.0084     20.8026      0        贴片高精密、低温漂电阻//100Ω0.1%       
+R46        1K                TopLayer R0603-M                               153.1774     28.8688      270      贴片电阻/1K                     
+R45        10K               TopLayer R0603-M                               162.6362     22.2250      90       贴片电阻/10K1%                  
+R44        0Ω                TopLayer R0603-M                               148.0084     23.1250      0        0Ω                          
+R43        "120Ω 0.1%"       TopLayer R0603-M                               160.4210     28.8688      90       贴片电阻                        
+R39        1K                TopLayer R0603-M                               150.8760     28.8688      270      贴片电阻                        
+R38        10K               TopLayer R0603-M                               157.8365     28.8688      270      贴片电阻/10K1%                  
+R22        0Ω                TopLayer R0603-M                               155.4226     28.8688      270      0Ω                          
+L4         100-3             TopLayer L0805-M                               158.8515     17.5767      180      "贴片磁珠/100Ω 3A/0805"         
+L3         100-3             TopLayer L0805-M                               149.4791     17.5769      0        "贴片磁珠/100Ω 3A/0805"         
+D25        LL4148            TopLayer LC-LL-34                              156.5656     11.3538      270      二极管LL4148                   
+D23        LL4148            TopLayer LC-LL-34                              146.3548     11.3538      270      二极管LL4148                   
+D22        LL4148            TopLayer LC-LL-34                              135.8900     11.3538      270      二极管LL4148                   
+D21        LL4148            TopLayer LC-LL-34                              125.6792     11.3538      270      二极管LL4148                   
+C18        10nF              TopLayer C0603-M                               159.0802     3.4798       270      贴片电容                        
+C17        10nF              TopLayer C0603-M                               148.8948     3.5052       270      贴片电容                        
+C16        10nF              TopLayer C0603-M                               138.6332     3.4618       270      贴片电容                        
+C15        10nF              TopLayer C0603-M                               128.2338     3.4618       270      贴片电容                        
+C14        100nF             TopLayer C0603-M                               162.5752     28.8688      90       贴片电容/50V100nF/10%           
+C13        100nF             TopLayer C0603-M                               164.6332     28.8688      90       贴片电容/50V100nF/10%           
+C12        100nF             TopLayer C0603-M                               154.2796     17.5768      180      贴片电容/50V100nF/10%           
+C11        50V10uF           TopLayer C1206                                 9.1186       35.0012      0        贴片电容                        
+C3         50V10uF           TopLayer C1206                                 9.1948       38.1254      0        贴片电容                        
+C2         50V10uF           TopLayer C1206                                 18.5674      40.9448      180      贴片电容                        
+U1         TPS5430DDAR       TopLayer SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL-EP2.0 21.8948      28.0162      0        ""                          
+RV1        10D560K_C66445    TopLayer RES-TH_L12.5-W4.0-P7.50-D1.0          17.1704      49.3360      90       ""                          
+R2         3.24K             TopLayer R0603                                 23.9522      21.5900      180      ""                          
+R1         10K               TopLayer R0603                                 20.4724      21.5900      180      ""                          
+L2         22uH              TopLayer IND-SMD_L7.1-W6.6                     7.9248       28.9814      180      ""                          
+L1         12uH              TopLayer IND-SMD_L4.0-W4.0_SWPA4018S           17.6276      36.6522      0        ""                          
+F2         JK-SMD0805-100/6V TopLayer F0805                                 16.1036      21.1582      180      ""                          
+F1         JK-NSMD050-30V    TopLayer F1206                                 21.3868      54.3306      270      ""                          
+D2         SS34              TopLayer SMA_L4.3-W2.6-LS5.2-RD                14.8590      28.9052      270      肖特基二极管                      
+D1         M7                TopLayer SMA_L4.4-W2.6-LS5.0-RD                8.0264       56.8960      0        通用二极管                       
+C10        16V220uF          TopLayer CAP-SMD_BD6.3-L6.6-W6.6-FD            8.2804       21.2090      180      贴片电解电容                      
+C9         100nF             TopLayer C0603-M                               20.7772      17.1958      180      Capacitor                   
+C8         25V10uF           TopLayer C0805                                 17.1704      17.1196      0        贴片电容                        
+C7         10nF              TopLayer C0603                                 17.7038      28.0416      270      ""                          
+C1         50V220uF          TopLayer CAP-SMD_BD10.0-L10.3-W10.3-FD         8.1280       47.6758      90       ""                          
+C4         10V10uF           TopLayer C0603-M                               13.0810      8.6106       90       贴片电容                        
+J1         HEADER56          TopLayer Connector_PIN56                       83.5787      62.1872      0        ""                          
+U20        G5V-1-5VDC        TopLayer G5V-1                                 76.2254      15.3750      90       继电器//欧姆龙//G5V-1-5VDC        
+U19        G5V-1-5VDC        TopLayer G5V-1                                 65.4812      15.3750      90       继电器//欧姆龙//G5V-1-5VDC        
+U18        G5V-1-5VDC        TopLayer G5V-1                                 54.7370      15.2654      90       继电器//欧姆龙//G5V-1-5VDC        
+U17        G5V-1-5VDC        TopLayer G5V-1                                 43.9420      15.2146      90       继电器//欧姆龙//G5V-1-5VDC        
+U16        G5V-1-5VDC        TopLayer G5V-1                                 33.0454      15.2146      90       继电器//欧姆龙//G5V-1-5VDC        
+U15        G5V-1-5VDC        TopLayer G5V-1                                 60.1472      28.7782      180      继电器//欧姆龙//G5V-1-5VDC        
+U14        G5V-1-5VDC        TopLayer G5V-1                                 159.8930     48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+U13        G5V-1-5VDC        TopLayer G5V-1                                 149.6868     48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+U12        G5V-1-5VDC        TopLayer G5V-1                                 139.4806     48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+U11        G5V-1-5VDC        TopLayer G5V-1                                 129.2744     48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+U10        G5V-1-5VDC        TopLayer G5V-1                                 119.0683     48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+U9         G5V-1-5VDC        TopLayer G5V-1                                 108.8621     48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+U8         G5V-1-5VDC        TopLayer G5V-1                                 98.6559      48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+U7         G5V-1-5VDC        TopLayer G5V-1                                 88.4497      48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+U6         G5V-1-5VDC        TopLayer G5V-1                                 78.2435      48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+U5         G5V-1-5VDC        TopLayer G5V-1                                 68.0374      48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+U4         G5V-1-5VDC        TopLayer G5V-1                                 57.8312      48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+U3         G5V-1-5VDC        TopLayer G5V-1                                 47.6250      48.7680      90       继电器//欧姆龙//G5V-1-5VDC        
+R42        22K               TopLayer R0603-M                               78.7400      4.8260       0        贴片电阻                        
+R41        22K               TopLayer R0603-M                               67.8688      4.5212       0        贴片电阻                        
+R40        22K               TopLayer R0603-M                               56.7944      4.7937       0        贴片电阻                        
+R37        330               TopLayer R0603-M                               78.6638      2.7432       0        贴片电阻/330                    
+R36        330               TopLayer R0603-M                               67.8688      2.5654       0        贴片电阻/330                    
+R35        330               TopLayer R0603-M                               56.7436      2.8103       0        贴片电阻/330                    
+R34        22K               TopLayer R0603-M                               45.8470      4.6228       0        贴片电阻                        
+R33        22K               TopLayer R0603-M                               35.5854      4.5974       0        贴片电阻                        
+R32        22K               TopLayer R0603-M                               74.0410      26.3180      270      贴片电阻                        
+R31        22K               TopLayer R0603-M                               157.2514     36.3474      180      贴片电阻                        
+R30        22K               TopLayer R0603-M                               147.5486     36.3220      180      贴片电阻                        
+R29        330               TopLayer R0603-M                               45.8724      2.5654       0        贴片电阻/330                    
+R28        330               TopLayer R0603-M                               35.6108      2.5400       0        贴片电阻/330                    
+R27        330               TopLayer R0603-M                               72.0344      26.3434      270      贴片电阻/330                    
+R26        330               TopLayer R0603-M                               157.2514     38.3540      180      贴片电阻/330                    
+R25        330               TopLayer R0603-M                               147.4978     38.2524      180      贴片电阻/330                    
+R24        22K               TopLayer R0603-M                               137.6426     36.4744      180      贴片电阻                        
+R23        22K               TopLayer R0603-M                               127.2032     36.3728      180      贴片电阻                        
+R21        22K               TopLayer R0603-M                               117.2210     36.2458      180      贴片电阻                        
+R20        22K               TopLayer R0603-M                               107.2134     36.4896      180      贴片电阻                        
+R19        22K               TopLayer R0603-M                               100.8888     38.4556      0        贴片电阻                        
+R18        330               TopLayer R0603-M                               137.6934     38.4150      180      贴片电阻/330                    
+R17        330               TopLayer R0603-M                               127.2286     38.3134      180      贴片电阻/330                    
+R16        330               TopLayer R0603-M                               117.2210     38.2524      180      贴片电阻/330                    
+R15        330               TopLayer R0603-M                               107.2278     38.4302      180      贴片电阻/330                    
+R14        330               TopLayer R0603-M                               100.8888     36.3982      0        贴片电阻/330                    
+R13        22K               TopLayer R0603-M                               91.1098      38.1762      0        贴片电阻                        
+R12        22K               TopLayer R0603-M                               80.8482      38.3794      0        贴片电阻                        
+R11        22K               TopLayer R0603-M                               70.5468      38.0134      0        贴片电阻                        
+R10        22K               TopLayer R0603-M                               60.1218      38.1912      0        贴片电阻                        
+R9         22K               TopLayer R0603-M                               49.7984      38.1254      0        贴片电阻                        
+R8         330               TopLayer R0603-M                               91.1352      36.0934      0        贴片电阻/330                    
+R7         330               TopLayer R0603-M                               80.8990      36.4236      0        贴片电阻/330                    
+R6         330               TopLayer R0603-M                               70.5722      36.0934      0        贴片电阻/330                    
+R5         330               TopLayer R0603-M                               60.0964      36.1950      0        贴片电阻/330                    
+R4         330               TopLayer R0603-M                               49.7730      36.1950      0        贴片电阻/330                    
+Q18        MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   74.4982      3.8354       0        三极管/MMBT5551/NPN            
+Q17        MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   63.6778      3.6253       0        三极管/MMBT5551/NPN            
+Q16        MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   52.7304      3.6253       0        三极管/MMBT5551/NPN            
+Q15        MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   41.8338      3.7592       0        三极管/MMBT5551/NPN            
+Q14        MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   31.3690      3.4290       0        三极管/MMBT5551/NPN            
+Q13        MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   72.9996      30.3566      270      三极管/MMBT5551/NPN            
+Q12        MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   161.6710     37.3888      180      三极管/MMBT5551/NPN            
+Q11        MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   151.5872     37.3634      180      三极管/MMBT5551/NPN            
+Q10        MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   141.5796     37.4650      180      三极管/MMBT5551/NPN            
+Q9         MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   131.2926     37.3888      180      三极管/MMBT5551/NPN            
+Q8         MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   121.1326     37.2364      180      三极管/MMBT5551/NPN            
+Q7         MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   111.2774     37.4396      180      三极管/MMBT5551/NPN            
+Q6         MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   96.7232      37.3888      0        三极管/MMBT5551/NPN            
+Q5         MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   86.8118      37.0434      0        三极管/MMBT5551/NPN            
+Q4         MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   76.8096      37.2364      0        三极管/MMBT5551/NPN            
+Q3         MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   66.4664      37.0484      0        三极管/MMBT5551/NPN            
+Q2         MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   55.7992      37.1734      0        三极管/MMBT5551/NPN            
+Q1         MMBT5551          TopLayer LC-SOT-23(SOT-23-3)                   45.7146      37.1582      0        三极管/MMBT5551/NPN            
+D20        LL4148            TopLayer LC-LL-34                              75.9968      7.3152       0        二极管LL4148                   
+D19        LL4148            TopLayer LC-LL-34                              65.1256      7.2136       0        二极管LL4148                   
+D18        LL4148            TopLayer LC-LL-34                              54.3560      7.2390       0        二极管LL4148                   
+D17        LL4148            TopLayer LC-LL-34                              43.6118      7.2644       0        二极管LL4148                   
+D16        LL4148            TopLayer LC-LL-34                              32.8930      7.1628       0        二极管LL4148                   
+D15        LL4148            TopLayer LC-LL-34                              69.0626      28.8036      90       二极管LL4148                   
+D14        LL4148            TopLayer LC-LL-34                              159.9438     40.6654      0        二极管LL4148                   
+D13        LL4148            TopLayer LC-LL-34                              149.7584     40.6654      0        二极管LL4148                   
+D12        LL4148            TopLayer LC-LL-34                              139.5222     40.7416      0        二极管LL4148                   
+D11        LL4148            TopLayer LC-LL-34                              128.9558     40.6908      0        二极管LL4148                   
+D10        LL4148            TopLayer LC-LL-34                              119.1514     40.6654      0        二极管LL4148                   
+D9         LL4148            TopLayer LC-LL-34                              108.6612     40.7924      0        二极管LL4148                   
+D8         LL4148            TopLayer LC-LL-34                              98.5012      40.7416      0        二极管LL4148                   
+D7         LL4148            TopLayer LC-LL-34                              88.3158      40.6654      0        二极管LL4148                   
+D6         LL4148            TopLayer LC-LL-34                              78.2066      40.6908      0        二极管LL4148                   
+D5         LL4148            TopLayer LC-LL-34                              68.1990      40.6400      0        二极管LL4148                   
+D4         LL4148            TopLayer LC-LL-34                              57.7368      40.7162      0        二极管LL4148                   
+D3         LL4148            TopLayer LC-LL-34                              47.4726      40.5892      0        二极管LL4148                   
+C5         25V10uF           TopLayer C0805                                 20.9066      3.4036       180      贴片电容                        
+U29        TD301MCAN         TopLayer LC-DIP-8                              32.2534      41.0692      90       隔离CAN收发器CTM1051AM或TD301MCAN 
+T1         NUP2105LT1G       TopLayer LC-SOT-23(SOT-23-3)                   29.8504      51.5620      0        TVS                         
+R95        0Ω                TopLayer R0603-M                               37.1348      28.7418      90       Resistor                    
+R94        5.1Ω              TopLayer R0603-M                               35.6760      52.5780      0        贴片电阻/120Ω                   
+R92        5.1Ω              TopLayer R0603-M                               35.7014      50.5206      0        贴片电阻/120Ω                   
+R90        120Ω              TopLayer R0603-M                               32.7914      53.5432      270      贴片电阻/120Ω                   
+D24        P6SMB6.8CA        TopLayer LC-SMA(DO-214AC)_S2                   32.7976      29.6454      180      TVS二极管/P6SMB6.8CA           
+C39        10V10uF           TopLayer C0603-M                               34.6964      33.1724      180      贴片电容                        
+R59        "0Ω NC"           TopLayer R0603-M                               25.8572      49.2252      0        Resistor                    
+R84        10K               TopLayer R0603-M                               115.9002     10.5808      270      Resistor                    
+UART1      "Header 4"        TopLayer HDR1X4                                85.6488      21.6916      90       "Header, 4-Pin"             
+U28        STM32F107VCT6     TopLayer LQFP100                               101.1428     20.6248      180      ""                          
+U27        AT24C02C-SSHM-T   TopLayer SO-8                                  111.7238     5.3668       180      EEPROM                      
+TST2       TST3V3A           TopLayer CON-TEST-VCC                          89.4334      26.8478      180      Connector                   
+SWD1       "Header 4"        TopLayer HDR1X4                                85.6488      8.4836       90       "Header, 4-Pin"             
+R93        10k               TopLayer R0603-M                               102.5144     31.6992      90       Resistor                    
+R91        2K                TopLayer R0603-M                               98.7044      4.9530       270      Resistor                    
+R89        0Ω                TopLayer R0603-M                               91.0082      5.3594       90       Resistor                    
+R88        1M                TopLayer R0603-M                               116.0688     19.9728      270      Resistor                    
+R87        4.7K              TopLayer R0603-M                               105.0798     8.0518       180      Resistor                    
+R86        10K               TopLayer R0603-M                               105.6894     10.1092      180      Resistor                    
+R85        4.7K              TopLayer R0603-M                               105.0798     6.0198       180      Resistor                    
+LED2       "绿灯 0603"         TopLayer 0603_LED_S1                           96.2406      5.0800       90       发光二极管                       
+L6         100-3             TopLayer L0805-M                               114.7573     28.2955      270      "贴片磁珠/100Ω 3A/0805"         
+CRY1       25MHz             TopLayer CRYSTAL-SMD_L11.5-W4.8-LS12.7         120.0659     22.1979      90       ""                          
+C38        10V10uF           TopLayer C0603-M                               93.5228      5.1664       90       贴片电容                        
+C37        100nF             TopLayer C0603-M                               94.1832      31.0896      180      Capacitor                   
+C36        100nF             TopLayer C0603-M                               108.2548     31.2357      180      Capacitor                   
+C35        100nF             TopLayer C0603-M                               109.3470     10.1346      0        Capacitor                   
+C34        100nF             TopLayer C0603-M                               90.0176      14.3002      270      Capacitor                   
+C33        100nF             TopLayer C0603-M                               113.1316     17.8816      90       Capacitor                   
+C32        100nF             TopLayer C0603-M                               113.8682     10.5554      90       Capacitor                   
+C31        100nF             TopLayer C0603-M                               105.0798     3.4798       0        Capacitor                   
+C30        20pF              TopLayer C0603-M                               116.0780     16.5100      270      Capacitor                   
+C29        20pF              TopLayer C0603-M                               116.0688     23.7728      270      Capacitor                   
+ARM_RST1   button            TopLayer SW_PB2_A1                             119.6086     7.3862       90       轻触开关3.6*6.1*2.5             
+3V3C       TST3V3C           TopLayer CON-TEST-VCC                          92.9640      9.9314       0        Connector                   
+C95        100nF             TopLayer C0603-M                               114.1222     23.7728      90       Capacitor                   
+U2         AMS1117-3.3       TopLayer SOT-223                               17.8526      9.2128       270      低压差线性稳压(LDO)                
+R161       2K                TopLayer R0603-M                               5.5626       8.6106       270      贴片电阻                        
+R3         0Ω                TopLayer R0603-M                               8.1026       8.6388       90       贴片电阻/0Ω                     
+LED1       "绿灯 0603"         TopLayer 0603_LED_S1                           4.5212       13.5198      270      发光二极管                       
+GND        GND               TopLayer CON-TEST-VCC                          11.6586      4.8288       270      Connector                   
+C6         100nF             TopLayer C0603-M                               10.8966      8.6388       90       贴片电容                        
+5V         TST5V             TopLayer CON-TEST-VCC                          24.1046      13.6848      0        Connector                   
+3V3        TST3V3            TopLayer CON-TEST-VCC                          7.9248       4.9022       90       Connector                   
